@@ -104,7 +104,7 @@ int main(){
     srand (time (NULL));
     char* num = "0123456789";
     char* lettre = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-    char* symb = "&#'}{)(-|_@][=+*%!:;.,/?<>^$£~¤";
+    char* symb = "&#'}{)(-|_@][=+*%!:;.,/?<>^$Â£~Â¤";
 
     int Noeud;
     Arbre* Arbre = NULL;
